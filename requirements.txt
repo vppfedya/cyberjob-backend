@@ -7,6 +7,7 @@ charset-normalizer==3.4.2
 click==8.1.8
 colorama==0.4.6
 comtypes==1.4.11
+whitenoise
 contourpy==1.3.0
 cycler==0.12.1
 flatbuffers==25.2.10
